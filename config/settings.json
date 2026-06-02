@@ -1,0 +1,11 @@
+{
+  "modelProvider": "gemma-4-26b-a4b-it",
+  "apiKey": "",
+  "iterationSpeed": 5,
+  "maxIterations": 100,
+  "autonomousMode": true,
+  "screenshotInterval": 1,
+  "tokenLimit": 1500000,
+  "retryLimit": 3,
+  "targetGenre": "Action RPG"
+}

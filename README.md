@@ -65,7 +65,7 @@ The development loop flows through these specialized roles:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/autonomous-game-developer-studio.git
+    git clone https://github.com/MustfZTRK/Autonomous-Game-Developer-Studio.git
     cd autonomous-game-developer-studio
     ```
 

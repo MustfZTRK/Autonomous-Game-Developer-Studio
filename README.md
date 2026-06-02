@@ -9,7 +9,11 @@
 **Autonomous Game Developer Studio** is an AI-orchestrated development environment where specialized agents collaborate to design, build, test, and refine a Python/Pygame adventure game. It's not just a code generator; it's a full-stack engineering working in real-time.
 
 ---
-
+<a href="https://ibb.co/cKWq7xQQ"><img src="https://i.ibb.co/qLH6Pxpp/Ekran-g-r-nt-s-2026-06-02-173643.png" alt="Ekran-g-r-nt-s-2026-06-02-173643" border="0"></a>
+<a href="https://ibb.co/nqjMVFdx"><img src="https://i.ibb.co/fVHdKs6j/Ekran-g-r-nt-s-2026-06-02-173647.png" alt="Ekran-g-r-nt-s-2026-06-02-173647" border="0"></a>
+<a href="https://ibb.co/0yHWcKDS"><img src="https://i.ibb.co/ZzqwVSLP/Ekran-g-r-nt-s-2026-06-02-173653.png" alt="Ekran-g-r-nt-s-2026-06-02-173653" border="0"></a>
+<a href="https://ibb.co/7xx6yD22"><img src="https://i.ibb.co/sppM34yy/Ekran-g-r-nt-s-2026-06-02-173657.png" alt="Ekran-g-r-nt-s-2026-06-02-173657" border="0"></a>
+<a href="https://ibb.co/TxxbSPGJ"><img src="https://i.ibb.co/fzzn5rWZ/Ekran-g-r-nt-s-2026-06-02-173702.png" alt="Ekran-g-r-nt-s-2026-06-02-173702" border="0"></a>
 ## 🌟 Key Features
 
 - **Agent Orchestration Matrix**: 8 specialized agents (Project Manager, Architect, Software Engineer, Build Analyst, QA Tester, Vision Analyzer, Bug Specialist, Release Reporter) working in a continuous loop.
